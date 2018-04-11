@@ -1,6 +1,8 @@
 import random
 import math
 
+# Hadriel Benjo
+
 msg_sum   = "Sum of all digit  : "
 msg_mul   = "Mul of all digit  : "
 msg_even  = "The  even digits  : "
