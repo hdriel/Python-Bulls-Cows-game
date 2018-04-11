@@ -17,10 +17,11 @@ for example on the random number: 256
 |---|---|---|---|
 | 1. |Sum of all digits in a three-digit number | 13 | [2+5+6]
 | 2. |Multiply all digits in a three digit number | 60 | [2\*5\*6=]
-| 3. |The even digits | X-X | [2=X | 5=- | 6=x]
-| 4. |The big( who is bigger then 5) digits in the number | --X | [2=- | 5=- | 6=x]
+| 3. |The even digits | X-X | [2=X \| 5=- \| 6=x]
+| 4. |The big( who is bigger then 5) digits in the number | --X | [2=- \| 5=- \| 6=x]
 | 5. |Is ascending ?  | True | [2<5<6 - Yes]
-| 6. |The prime digits are | XX- | [2=X | 5=X | 6=-]
+| 6. |The prime digits are | XX- | [2=X \| 5=X \| 6=-]
+
 
 For each misguided guessing, you fall 10 points from the score in the previous step, you start the game with 100 points
 
