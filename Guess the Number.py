@@ -17,7 +17,7 @@ def game():
     num = random.randint((int)(math.pow(10, digits-1)), (int)(math.pow(10, digits)-1))# random 100-999
     points = 100
     Feild = 10 # here you can change to any amount of chances to guessing
-    print(num, "welcome to guess game! \nYou have " ,Feild, " changes to guess my random num of 3 digit.\nIn every try I give you a tip for helping the calculate the number.\n")
+    print("welcome to guess game! \nYou have " ,Feild, " changes to guess my random num of 3 digit.\nIn every try I give you a tip for helping the calculate the number.\n")
 
     def printGameOver(num):
         print('\n\n')
