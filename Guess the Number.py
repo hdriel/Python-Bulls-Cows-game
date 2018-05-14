@@ -158,7 +158,7 @@ if __name__ == "__main__":
             else:
                 repeat = False
         else: repeat = False
-    print('Good-bay')
+    input('Good-bay')
     
 
 
